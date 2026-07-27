@@ -1,0 +1,6 @@
+@TakeLeaveSystem_HostAddress = http://localhost:5206
+
+GET {{TakeLeaveSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
